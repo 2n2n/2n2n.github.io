@@ -8,14 +8,14 @@ _Senior Fullstack engineer based in General Santos City PH_ <br>
 
 ## 🏆 Viglo
 
-** Mnemonics ** [demo](https://viglo-phi.vercel.app/home)<br>
+**Mnemonics** [demo](https://viglo-phi.vercel.app/home)<br>
 An online Mnemonic app powered by AI. By typing any spanish phrase it will help you remember something by associating it with something else that is easier to recall.
   - Tweaked and modified the initial idea into something more interesting.
   - Lead a team of 1 designer and 1 junior frontend developer.
   - **_Technologies used:_** NextJS, TypeScript, React, AI.
 <br>
 
-** Reborn ** [demo](https://viglo-phi.vercel.app)<br>
+**Reborn** [demo](https://viglo-phi.vercel.app)<br>
 An online classroom, built for a 1 on 1 face to face call with the teacher and student.
   - Tweaked and modified the initial idea into something more interesting.
   - Enable the user to join easily and register quickly to the application
