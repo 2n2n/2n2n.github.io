@@ -1,6 +1,8 @@
-# Anthony Yolach S. Lloveras
+# About Me
+Hi I'm Anthony Yolach
 
 _Senior Fullstack engineer based in General Santos City PH_ <br>
+and here's the recent project I have worked with (Some projects might have undergone rebrand for confidentiality purposes)<br>
 
 [Email](mailto:anthonylloveras.boxtypd@gmail.com) / [LinkedIn](https://www.linkedin.com/in/anthonylloveras/) / [GitHub](https://github.com/2n2n/)
 
