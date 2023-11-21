@@ -1,19 +1,27 @@
 # About Me
-Hi I'm Anthony Yolach
+Hi I'm Anthony Yolach and here's the recent project I have worked with (Some projects might have undergone rebrand for confidentiality purposes)<br>
+
 
 _Senior Fullstack engineer based in General Santos City PH_ <br>
-and here's the recent project I have worked with (Some projects might have undergone rebrand for confidentiality purposes)<br>
 
 [Email](mailto:anthonylloveras.boxtypd@gmail.com) / [LinkedIn](https://www.linkedin.com/in/anthonylloveras/) / [GitHub](https://github.com/2n2n/)
 
-## 👩🏼‍💻 Engineering Experience
+## 🏆 Viglo
 
-**Frontend Engineer** @ [BRYTER](https://bryter.com/) _(Dec 2020 - Present)_ <br>
-No-code platform that enables professionals to build interactive applications.
-  - Founding member of BRYTER's design system team and continued to provide support and extend the component library
-  - Wrote code in multiple architecture layers, including the application core and integrations with external services
-  - Implemented a new Vue 3 app using Vite to replace a legacy Vue 2 and Webpack architecture
-  - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Vite, Web Components (LitElement).
+[Mnemonics](https://viglo-phi.vercel.app/home)<br>
+An online Mnemonic app powered by AI. By typing any spanish phrase it will help you remember something by associating it with something else that is easier to recall.
+  - Tweaked and modified the initial idea into something more interesting.
+  - Lead a team of 1 designer and 1 junior frontend developer.
+  - **_Technologies used:_** NextJS, TypeScript, React, AI.
+<br>
+
+[Reborn](https://viglo-phi.vercel.app)<br>
+An online classroom, built for a 1 on 1 face to face call with the teacher and student.
+  - Tweaked and modified the initial idea into something more interesting.
+  - Enable the user to join easily and register quickly to the application
+  - Collated with the Mnemonic app
+  - AI powered and Real Time Communication
+  - **_Technologies used:_** NextJS, TypeScript, React, AI, WebRTC
 <br><br>
 
 **Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
