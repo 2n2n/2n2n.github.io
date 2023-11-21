@@ -1,8 +1,8 @@
-# Carolyn Stransky
+# Anthony Yolach S. Lloveras
 
-_Software engineer and journalist based in Berlin 🇩🇪_ <br>
+_Senior Fullstack engineer based in General Santos City PH_ <br>
 
-[Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
+[Email](mailto:anthonylloveras.boxtypd@gmail.com) / [LinkedIn](https://www.linkedin.com/in/anthonylloveras/) / [GitHub](https://github.com/2n2n/)
 
 ## 👩🏼‍💻 Engineering Experience
 
