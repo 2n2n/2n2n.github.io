@@ -41,3 +41,12 @@ This is one of the government websites that I am directly involved with and a is
   - Managed and develop the payment gateway for the system.
   - **_Technologies used:_** Laravel, PHP, React, AWS.
 <br><br>
+
+## 📌 Martonix
+🏆 **Martronix Website - Automated Home, Hotel and Security Provider** [demo](https://martronix.vercel.app/)<br>
+This is one of the government websites that I am directly involved with and a is still being used as of the current date.
+  - Built the DTI DOSe application and the initial web app that visualized the test reports
+  - Responsible for converting manual process to simplifying the automated process
+  - Managed and develop the payment gateway for the system.
+  - **_Technologies used:_** Laravel, PHP, React, AWS.
+<br><br>
