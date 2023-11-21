@@ -6,9 +6,9 @@ _Senior Fullstack engineer based in General Santos City PH_ <br>
 
 [Email](mailto:anthonylloveras.boxtypd@gmail.com) / [LinkedIn](https://www.linkedin.com/in/anthonylloveras/) / [GitHub](https://github.com/2n2n/)
 
-## 🏆 Viglo
+## 📌 Viglo
 
-**Mnemonics** [demo](https://viglo-phi.vercel.app/home)<br>
+🏆 **Mnemonics** [demo](https://viglo-phi.vercel.app/home)<br>
 An online Mnemonic app powered by AI. By typing any spanish phrase it will help you remember something by associating it with something else that is easier to recall.
   - Tweaked and modified the initial idea into something more interesting.
   - Lead a team of 1 designer and 1 junior frontend developer.
@@ -24,26 +24,23 @@ An online classroom, built for a 1 on 1 face to face call with the teacher and s
   - **_Technologies used:_** NextJS, TypeScript, React, AI, WebRTC
 <br><br>
 
-## 🏆 ECFI - Easy Financing
-**ECFI Website** @ [demo](https://ec-fi.vercel.app/) <br>
+## 📌 ECFI - Easy Financing
+🏆 **ECFI Website** [demo](https://ec-fi.vercel.app/) <br>
 ECFI is a local startup that enables lending fast and easy. By selecting your preferred loan appetite the site will lead to lending partners that fits your needs. 
-  - Created a [Frequently Asked Questions (FAQ) resource](https://graphql.org/faq/) for graphql.org, including all the content and page functionality
-  - Triaged issues and reviewed pull requests to the [GraphQL website](https://github.com/graphql/graphql.github.io/)
-  - Wrote [internal documentation](https://github.com/graphql/graphql.github.io/blob/source/CONTRIBUTING.md) to improve the contributing experience
+  - Collaborated and acted as consultant with the founder.
+  - Spear head the process and directed the overall process
+  - Backend and Frontend developer of the system.
   - **_Technologies used:_** CSS, React, NextJS, TypeScript.
 <br><br>
 
-**Software Engineer** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Sep 2020)_ <br>
-Early-stage startup focused on automated API testing and NLP.
-  - Built the [website](https://meeshkan.com/) and the initial web app that visualized the test reports
-  - Maintained [unmock-js](https://github.com/meeshkan/unmock-js), an open-source fuzz testing library
-  - Ownership of Meeshkan's documentation and technical blog
-  - **_Technologies used:_** TypeScript, React, Gatsby, Chakra, Next.js, Node.js, GraphQL, REST, Jest, CircleCI, Python.
-  - **_Selected open-source work:_**
-    - [Jest configuration for the unmock-js runner](https://github.com/meeshkan/unmock-jest-runner)
-    - [Property-based testing for JavaScript developers](https://dev.to/meeshkan/property-based-testing-for-javascript-developers-21b2)
-    - [HTTP Mocking Toolkit documentation](https://github.com/meeshkan/hmt)
-    <br><br>
+## 📌 DOSe - Region 12 DTI Online Application Services
+🏆 **DTI - DOSe** [demo](https://r12services.dti.gov.ph/)<br>
+This is one of the government websites that I am directly involved with and a is still being used as of the current date.
+  - Built the DTI DOSe application and the initial web app that visualized the test reports
+  - Responsible for converting manual process to simplifying the automated process
+  - Managed and develop the payment gateway for the system.
+  - **_Technologies used:_** Laravel, PHP, React, AWS.
+<br><br>
 
 **Frontend Engineer** @ [Blacklane](https://www.blacklane.com/en) _(Mar 2018 - Sep 2019)_ <br>
 Professional chauffeur service available in over 300 cities worldwide.
