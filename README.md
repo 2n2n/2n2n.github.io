@@ -24,12 +24,13 @@ An online classroom, built for a 1 on 1 face to face call with the teacher and s
   - **_Technologies used:_** NextJS, TypeScript, React, AI, WebRTC
 <br><br>
 
-**Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
-[Google Season of Docs](https://developers.google.com/season-of-docs/docs/participants) is a program matching experienced technical writers with open source organizations.
+## 🏆 ECFI - Easy Financing
+**ECFI Website** @ [demo](https://ec-fi.vercel.app/) <br>
+ECFI is a local startup that enables lending fast and easy. By selecting your preferred loan appetite the site will lead to lending partners that fits your needs. 
   - Created a [Frequently Asked Questions (FAQ) resource](https://graphql.org/faq/) for graphql.org, including all the content and page functionality
   - Triaged issues and reviewed pull requests to the [GraphQL website](https://github.com/graphql/graphql.github.io/)
   - Wrote [internal documentation](https://github.com/graphql/graphql.github.io/blob/source/CONTRIBUTING.md) to improve the contributing experience
-  - **_Technologies used:_** CSS, React, TypeScript, Gatsby, GraphQL.
+  - **_Technologies used:_** CSS, React, NextJS, TypeScript.
 <br><br>
 
 **Software Engineer** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Sep 2020)_ <br>
