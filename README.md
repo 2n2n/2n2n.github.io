@@ -42,7 +42,7 @@ This is one of the government websites that I am directly involved with and a is
   - **_Technologies used:_** Laravel, PHP, React, AWS.
 <br><br>
 
-## 📌 Martonix - Website
+## 📌 Martronix - Website
 🏆 **Martronix - Automated Home, Hotel and Security Provider** [demo](https://martronix.vercel.app/)<br>
 Martronix is one of the local business, that wanted to innovate and react larger customers through their website.
   - Directly responsible for consultation with the business
