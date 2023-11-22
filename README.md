@@ -6,9 +6,9 @@ _Senior Fullstack engineer based in General Santos City PH_ <br>
 
 [Email](mailto:anthonylloveras.boxtypd@gmail.com) / [LinkedIn](https://www.linkedin.com/in/anthonylloveras/) / [GitHub](https://github.com/2n2n/)
 
-## 📌 Viglo
+## 📌 Viglo Reborn
 
-🏆 **Mnemonics** [demo](https://viglo-phi.vercel.app/home)<br>
+🏆 **Mnemonics** [demo](https://viglo-phi.vercel.app/mnemonics)<br>
 An online Mnemonic app powered by AI. By typing any spanish phrase it will help you remember something by associating it with something else that is easier to recall.
   - Tweaked and modified the initial idea into something more interesting.
   - Lead a team of 1 designer and 1 junior frontend developer.
@@ -42,11 +42,10 @@ This is one of the government websites that I am directly involved with and a is
   - **_Technologies used:_** Laravel, PHP, React, AWS.
 <br><br>
 
-## 📌 Martonix
-🏆 **Martronix Website - Automated Home, Hotel and Security Provider** [demo](https://martronix.vercel.app/)<br>
-This is one of the government websites that I am directly involved with and a is still being used as of the current date.
-  - Built the DTI DOSe application and the initial web app that visualized the test reports
-  - Responsible for converting manual process to simplifying the automated process
-  - Managed and develop the payment gateway for the system.
-  - **_Technologies used:_** Laravel, PHP, React, AWS.
+## 📌 Martonix - Website
+🏆 **Martronix - Automated Home, Hotel and Security Provider** [demo](https://martronix.vercel.app/)<br>
+Martronix is one of the local business, that wanted to innovate and react larger customers through their website.
+  - Directly responsible for consultation with the business
+  - Understood their marketing needs and translate this to a minimal website with a straight forward User Experience
+  - **_Technologies used:_** Vue3, Nuxt, Vercel.
 <br><br>
